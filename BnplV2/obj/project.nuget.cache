@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "xTLf0YG+xd4=",
+  "dgSpecHash": "+cQ9qDd3cH8=",
   "success": true,
   "projectFilePath": "/Users/dalitso/RiderProjects/BnplV2/BnplV2/BnplV2.csproj",
   "expectedPackageFiles": [
     "/Users/dalitso/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
+    "/Users/dalitso/.nuget/packages/flurl/4.0.0/flurl.4.0.0.nupkg.sha512",
+    "/Users/dalitso/.nuget/packages/flurl.http/4.0.2/flurl.http.4.0.2.nupkg.sha512",
     "/Users/dalitso/.nuget/packages/hangfire.aspnetcore/1.8.15/hangfire.aspnetcore.1.8.15.nupkg.sha512",
     "/Users/dalitso/.nuget/packages/hangfire.core/1.8.15/hangfire.core.1.8.15.nupkg.sha512",
     "/Users/dalitso/.nuget/packages/hangfire.netcore/1.8.15/hangfire.netcore.1.8.15.nupkg.sha512",

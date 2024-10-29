@@ -43,6 +43,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
             "Hangfire.AspNetCore": {
               "target": "Package",
               "version": "[1.8.15, )"
