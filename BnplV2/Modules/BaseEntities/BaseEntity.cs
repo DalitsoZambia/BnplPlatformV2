@@ -3,7 +3,7 @@ namespace BnplV2.Modules.BaseEntities;
 /// Base Entity
 /// All Entities that go to the database will inherit from this class
 /// </summary>
-public class BaseEntity
+public abstract class BaseEntity
 {
     public int Id { get; set; }
     public DateTimeOffset CreatedDate { get; set; } = DateTimeOffset.UtcNow;

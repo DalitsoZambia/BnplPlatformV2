@@ -12,6 +12,7 @@ builder.Services.AddControllers().AddJsonOptions(options =>
 builder.Services.AddAppServices();
 builder.Services.AddAppRepositories();
 builder.Services.AddSwaggerGeneration();
+// builder.Services.AddHangfireCore();
 // builder.Services.AddPostgresDb(builder.Configuration);
 
 var app = builder.Build();

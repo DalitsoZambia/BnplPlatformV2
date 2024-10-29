@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BnplV2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2572884159641e11b3eb3e6710c3aaace80cd43e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60eba8aee92b6e67e8375d181897f46f8355eeed")]
 [assembly: System.Reflection.AssemblyProductAttribute("BnplV2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BnplV2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
